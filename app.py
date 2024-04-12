@@ -1,7 +1,7 @@
-def addition(a,b):
-    return (a+b)
-def multiply(x,y,z):
-    return (x*y*z)
+def addition(a,b,c):
+    return (a+b+c)
+def multiply(x,y):
+    return (x*y)
 
 def remainder(x,y):
     return (x%y)
